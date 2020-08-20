@@ -1,0 +1,10 @@
+*{
+    margin: 0 auto;
+    padding: 1%;
+}
+.wrapper
+{
+    display: grid;
+    grid-column:auto;
+    grid-row: initial;
+}
