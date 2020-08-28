@@ -28,3 +28,6 @@ function gfg_Run6() {
 function gfg_Run7() { 
     changeColor('gray'); 
 }  
+function gfg_Run8() {
+    
+}
